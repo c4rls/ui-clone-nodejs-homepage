@@ -5,6 +5,6 @@
 ## Features
 
 - Semantic HTML Structure
-- Unresponsive Page
+- Unresponsive page on smartphones
 - Page tested on computer only
 - Page tested only on firefox 71
